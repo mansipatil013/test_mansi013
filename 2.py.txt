@@ -1,0 +1,3 @@
+x= (input ("enter value: "))
+ca=x.count('a') 
+print(ca)
